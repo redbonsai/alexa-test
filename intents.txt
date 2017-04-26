@@ -1,0 +1,24 @@
+GetComplianceIntent coming up
+GetComplianceIntent what I need to take care of today
+GetComplianceIntent what I need to take care of soon
+GetComplianceIntent urgent
+FileIRIntent annual report for
+FileIRIntent initial report for
+FileIRIntent file my annual report for
+GetEINIntent EIN number
+GetEINIntent what's my EIN'
+GetEINIntent what is my EIN
+GetEINIntent for my EIN
+GetEINIntent to give me my EIN
+AccountantIntent schedule my accountant
+AccountantIntent have my accountant call me
+AttorneyIntent have my attorney call me about my
+AttorneyIntent schedule consultation attorney for
+AttorneyIntent have my lawyer to call me about my
+AttorneyIntent schedule a call with my lawyer about my
+OrderStatusIntent order status
+OrderStatusIntent status of my estate plan
+OrderStatusIntent status lifeplan
+OrderStatusIntent status living trust
+OrderStatusIntent status last will
+GetNewFactIntent space fact
